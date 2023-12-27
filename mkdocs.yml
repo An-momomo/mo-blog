@@ -29,8 +29,8 @@ theme:
 nav:
     - 主页: index.md
     - 附录:
-      - Linux: Linux.md
-      - 吐槽: 吐槽.md
+      - Linux: Linux/Linux.md
+      - 吐槽: docs/吐槽.md
 plugins:
   - mermaid2:
       arguments:
